@@ -1,1 +1,1 @@
-# in this repository i learning about python 
+# In this repository i learning about python 
